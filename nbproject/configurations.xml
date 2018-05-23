@@ -4,13 +4,15 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Arquivos de Cabeçalho"
                    projectFiles="true">
+      <itemPath>com112_file.h</itemPath>
       <itemPath>com112_sort.h</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Arquivos de Código-Fonte"
                    projectFiles="true">
+      <itemPath>com112_file.c</itemPath>
+      <itemPath>com112_main.c</itemPath>
       <itemPath>com112_sort.c</itemPath>
-      <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Arquivos de Recurso"
@@ -38,11 +40,15 @@
       </toolsSet>
       <compileType>
       </compileType>
+      <item path="com112_file.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="com112_file.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="com112_main.c" ex="false" tool="0" flavor2="0">
+      </item>
       <item path="com112_sort.c" ex="false" tool="0" flavor2="0">
       </item>
       <item path="com112_sort.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
     <conf name="Release" type="1">
@@ -65,11 +71,15 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="com112_file.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="com112_file.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="com112_main.c" ex="false" tool="0" flavor2="0">
+      </item>
       <item path="com112_sort.c" ex="false" tool="0" flavor2="0">
       </item>
       <item path="com112_sort.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
   </confs>

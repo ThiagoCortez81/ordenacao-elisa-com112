@@ -1,0 +1,3 @@
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/cmake-build-debug/CMakeFiles/COM112.dir

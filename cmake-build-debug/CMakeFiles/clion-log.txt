@@ -1,0 +1,4 @@
+/home/thiagocortez/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/cmake-build-debug

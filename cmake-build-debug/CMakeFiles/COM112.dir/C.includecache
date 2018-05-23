@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_file.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+com112_file.h
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_file.h
+
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_file.h
+
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+com112_sort.h
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_sort.h
+com112_file.h
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_file.h
+
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_sort.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+com112_sort.h
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_sort.h
+com112_file.h
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_file.h
+
+/home/thiagocortez/Google Drive/COM 112 - Estrutura de Dados II/Trabalho 1/com-112-elisa/com112_sort.h
+
